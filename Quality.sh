@@ -1,2 +1,2 @@
 
-echo "Quality Gate Check : $(date)
+echo "Quality Gate Check : $(date)"
